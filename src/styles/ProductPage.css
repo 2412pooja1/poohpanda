@@ -1,0 +1,14 @@
+.product-container {
+    padding: 20px;
+  }
+  
+  .product-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+  }
+  
+  .product-description {
+    margin-top: 20px;
+  }
+  
